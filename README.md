@@ -325,5 +325,6 @@ This project has:
 ✔ Full-stack architecture
 
 ✔ Career development value
+
 ✔ scalable startup potential
 It can evolve into a complete AI-powered career ecosystem for students.
