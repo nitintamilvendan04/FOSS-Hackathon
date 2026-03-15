@@ -2,7 +2,7 @@
 
 Project Title
 
-AI-Powered Smart Student Intelligence & Opportunity Platform
+Skill Sync: AI-Powered Smart Student Intelligence & Opportunity Platform
 
 1. Project Overview
    
